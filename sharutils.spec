@@ -1,14 +1,14 @@
 Summary:	GNU shar utils
 Name:		sharutils
-Version:	4.13.5
+Version:	4.14
 Release:	1
 License:	GPL v3+
 Group:		Applications/File
 Source0:	http://ftp.gnu.org/gnu/sharutils/%{name}-%{version}.tar.xz
-# Source0-md5:	05b66d9b30336a9fd3b28fd1860e26c1
+# Source0-md5:	77ede22951bdb67279c6e78e79a04784
 URL:		http://www.gnu.org/software/sharutils/
 BuildRequires:	autoconf
-BuildRequires:	automake
+BuildRequires:	automake >= 1:1.14
 BuildRequires:	gettext-devel
 BuildRequires:	texinfo
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
