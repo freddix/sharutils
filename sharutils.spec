@@ -1,7 +1,7 @@
 Summary:	GNU shar utils
 Name:		sharutils
 Version:	4.14
-Release:	1
+Release:	2
 License:	GPL v3+
 Group:		Applications/File
 Source0:	http://ftp.gnu.org/gnu/sharutils/%{name}-%{version}.tar.xz
