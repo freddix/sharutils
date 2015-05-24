@@ -1,11 +1,11 @@
 Summary:	GNU shar utils
 Name:		sharutils
-Version:	4.15
+Version:	4.15.1
 Release:	1
 License:	GPL v3+
 Group:		Applications/File
 Source0:	http://ftp.gnu.org/gnu/sharutils/%{name}-%{version}.tar.xz
-# Source0-md5:	4b94e8016adf1a544c90e96132e36c8d
+# Source0-md5:	17fbbd1088059d4c3c9c6955222aae2a
 URL:		http://www.gnu.org/software/sharutils/
 BuildRequires:	autoconf
 BuildRequires:	automake >= 1:1.14
